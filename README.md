@@ -1,6 +1,21 @@
 [README.md](https://github.com/user-attachments/files/33308137/README.md)
 <div align="center">
 
+🛠️ Tech Stack
+
+"Android" (https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
+"Gradle" (https://img.shields.io/badge/Build-Gradle-02303A?logo=gradle&logoColor=white)
+"Kotlin DSL" (https://img.shields.io/badge/Build_Scripts-Kotlin_DSL-7F52FF?logo=kotlin&logoColor=white)
+"Gemini API" (https://img.shields.io/badge/AI-Gemini_API-4285F4?logo=google&logoColor=white)
+
+Languages & Technologies
+
+- Kotlin DSL (".gradle.kts") — Gradle build configuration.
+- Android — Mobile application platform.
+- Gemini API — AI integration, where configured in the application.
+- Speech Recognition & Text-to-Speech — Interpreter functionality, subject to implementation and device support.
+
+  
 # Anha.ai
 
 ### Breaking language barriers through AI-powered communication
