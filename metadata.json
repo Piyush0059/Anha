@@ -1,0 +1,6 @@
+{
+  "name": "Anha.ai",
+  "description": "Next-generation multilingual AI communication platform that translates across Indian and international languages instantly and naturally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
